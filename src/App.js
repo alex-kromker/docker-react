@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./images/swirling-illustrations-animated-gifs-james-r-eads-chris-mcdaniel-the-glitch-2-57ea71b5b0cac__605.gif";
 import "./App.css";
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          I love you baby
+          ❤️‍🔥🥰 Happy monthaversay to the love of my life 🥰❤️‍🔥
         </p>
       </header>
     </div>
